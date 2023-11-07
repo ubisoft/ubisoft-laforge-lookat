@@ -27,7 +27,7 @@ Each file contains the full body motion-capture plus the tracked motion of the t
 Start frame of each look-at take at 120fps are listed in `all_frame_ranges.csv`. End frames are simply listed as the start frame of the next take.
 
 ## Using this data
-This dataset is for non-commericial research purposes only. If you use this dataset, you must cite the paper:
+This dataset is for non-commercial research purposes only. If you use this dataset, you must cite the paper:
 
 ```
 @inproceedings{ferstl2023generating,
