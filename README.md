@@ -1,5 +1,5 @@
 # LookAt-Data
-This repository contains the motion capture data pertraining to our work "Generating Emotionally Expressive Look-At Animation".
+This repository contains the motion capture data pertraining to our work [Generating Emotionally Expressive Look-At Animation](https://dl.acm.org/doi/10.1145/3623264.3624438).
 
 ## File Naming
 
