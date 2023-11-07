@@ -26,5 +26,17 @@ When recoding of a style combination was repeated, _000 and _001 are added to th
 Each file contains the full body motion-capture plus the tracked motion of the two look-at targets. The actor alternates between the two targets, which are moved after each look-at take.  
 Start frame of each look-at take at 120fps are listed in `all_frame_ranges.csv`. End frames are simply listed as the start frame of the next take.
 
+## Using this data
+If you use this dataset, you must cite the paper:
+
+```
+@inproceedings{ferstl2023generating,
+  title={Generating Emotionally Expressive Look-At Animation},
+  author={Ferstl, Ylva},
+  booktitle={Proceedings of the 16th ACM SIGGRAPH Conference on Motion, Interaction and Games},
+  pages={1--6},
+  year={2023}
+}
+```
 
 © [2023] Ubisoft Entertainment. All Rights Reserved
